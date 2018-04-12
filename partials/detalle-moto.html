@@ -1,0 +1,57 @@
+
+<div class="row">
+
+	<div class="col s12">
+		<h4> {{ moto.nombre }} </h4>
+	</div>
+
+
+	<div class="row">
+		<div class="col s8 ">
+			<div class="card">
+
+				<div class="card-image ">
+					<!--img ng-src="img/{{ moto.images[0] }}" class="img_detalle"-->
+					<img ng-src="img/{{img}}"
+					class="detalle-moto"
+					ng-repeat="img in moto.images"
+					ng-class="{ activator: mainImageUrl == img }">
+				</div>
+
+			</div>
+		</div>
+
+		<div class="col s4">
+			<ul class="moto-thumbs">
+				<li class="" ng-repeat="img in moto.images">
+					<img ng-src="img/{{img}}" ng-click="setImage(img)">
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col s12 ">
+			<h5> Fabricante </h5>
+			<p> <strong> Nombre: </strong> {{ moto.fabricante.nombre }} </p>
+			<p> <strong> Pais: </strong> {{ moto.fabricante.pais }} </p>
+
+			<h5> Motor </h5>
+			<p> <strong> Cilindrada: </strong> {{ moto.motor.cilindrada }} </p>
+
+			<p> <strong> Número de marchas: </strong> {{ moto.motor.marchas }} </p>
+			<p> <strong> Transmisión: </strong> {{ moto.motor.transmision }} </p>
+			<p> <strong> Chasis: </strong> {{ moto.motor.chasis }} </p>
+
+			<p> <strong> Tipo de encendido: </strong> {{ moto.encendido }} </p>
+			<p> <strong> Peso: </strong> {{ moto.peso }} </p>
+
+			<h5> Dimensión </h5>
+			<p> <strong> Longitud maxima: </strong> {{ moto.dimension.longitud }} </p>
+			<p> <strong> Distancia entre ejes: </strong> {{ moto.dimension.distancia }} </p>
+
+		</div>
+
+	</div>
+
+</div>

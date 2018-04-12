@@ -1,0 +1,25 @@
+{
+	"nombre": "Norton V4 SS/RR 2018",
+	"fabricante": {
+		"nombre": "Norton",
+		"pais": "Inlaterra"
+	},
+	"motor": {
+		"cilindrada": "1.200 cc",
+		"marchas": 6,
+		"transmision": "Trasmisino Secundaria Cadena.",
+		"chasis": "Doble tubo perimetral de aluminio con motor portante y geometrías configurables"
+	},
+	"encendido": "Digital",
+	"peso": "179 Kg.",
+	"dimension": {
+		"longitud": "2.367 mm.",
+		"distancia": "1.430 mm."
+	},
+	"images": [
+		"moto-norton1.jpg",
+		"moto-norton2.jpg",
+		"moto-norton3.jpg",
+		"moto-norton4.jpg"
+	]
+}

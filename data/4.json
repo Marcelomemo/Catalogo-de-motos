@@ -1,0 +1,25 @@
+{
+	"nombre": "BMW C 650 Sport 2018",
+	"fabricante": {
+		"nombre": "BMW Motorrad",
+		"pais": "Alemania"
+	},
+	"motor": {
+		"cilindrada": "647 cc",
+		"marchas": "Automático centrífugo seco",
+		"transmision": "Cadena en baño de aceite.",
+		"chasis": "Multitubular en acero"
+	},
+	"encendido": "Electrónico CDI",
+	"peso": "249 Kg .",
+	"dimension": {
+		"longitud": "2.115 mm.",
+		"distancia": "1.591 mm."
+	},
+	"images": [
+		"moto-bmw1.jpg",
+		"moto-bmw2.jpg",
+		"moto-bmw3.jpg",
+		"moto-bmw4.jpg"
+	]
+}

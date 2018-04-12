@@ -1,0 +1,25 @@
+{
+	"nombre": "Victory Vegas 8-Ball 2010",
+	"fabricante": {
+		"nombre": "Victory",
+		"pais": "USA"
+	},
+	"motor": {
+		"cilindrada": "1.731 cc",
+		"marchas": 6,
+		"transmision": "Trasmisión Primaria Por piñones y compensador de par, Trasmisino Secundaria Correa reforzada de fibra de carbono.",
+		"chasis": "Doble cuna de acero"
+	},
+	"encendido": "Electrónico CDI",
+	"peso": "293 Kg.",
+	"dimension": {
+		"longitud": "2.430 mm.",
+		"distancia": "1.680 mm."
+	},
+	"images": [
+		"moto-victory1.jpg",
+		"moto-victory2.jpg",
+		"moto-victory3.jpg",
+		"moto-victory4.jpg"
+	]
+}

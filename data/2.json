@@ -1,0 +1,25 @@
+{
+	"nombre": "Yamaha MT-03 2018",
+	"fabricante": {
+		"nombre": "Yamaha Motor",
+		"pais": "Japon"
+	},
+	"motor": {
+		"cilindrada": "321 cc",
+		"marchas": 6,
+		"transmision": "Cadena",
+		"chasis": "Doble viga acero"
+	},
+	"encendido": "Electrónico TCI",
+	"peso": "165 Kg.",
+	"dimension": {
+		"longitud": "2.090 mm.",
+		"distancia": "1.380 mm."
+	},
+	"images": [
+		"moto-yamaha1.jpg",
+		"moto-yamaha2.jpg",
+		"moto-yamaha3.jpg",
+		"moto-yamaha4.jpg"
+	]
+}

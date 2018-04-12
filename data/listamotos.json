@@ -1,0 +1,74 @@
+[
+{
+	"id": "1",
+	"nombre": "Honda",
+	"modelo": "CB125R",
+	"imagen": "moto-honda1.jpg",
+	"detalle": "La Honda CB125R es una escuela perfecta para los que con su carnet B de coche desean una moto de fácil conducción y marcado carácter deportivo.",
+	"year": 2018
+},
+{
+	"id": "2",
+	"nombre": "Yamaha",
+	"modelo": "MT-03",
+	"imagen": "moto-yamaha1.jpg",
+	"detalle": "La Yamaha MT-03 cuenta con un motor bicilíndrico que entrega 42 caballos de potencia, características mecánicas sofisticadas, como inyección electrónica, cuatro válvulas por cilindro o refrigeración líquida.",
+	"year": 2018
+},
+{
+	"id": "3",
+	"nombre": "Ducati",
+	"modelo": "Panigale V4",
+	"imagen": "moto-ducati1.jpg",
+	"detalle": "La Panigale V4 S es sólo 5,5 kg más pesada que la 1299 Panigale S, una cifra que habla por sí sola del gran trabajo de los italianos con la Desmosedici Stradale.",
+	"year": 2018
+},
+{
+	"id": "4",
+	"nombre": "BMW",
+	"modelo": "C 650 Sport",
+	"imagen": "moto-bmw1.jpg",
+	"detalle": "El BMW C 650 Sport es el más deportivo de los scooter de la marca alemana, el cual cambió de denominación en 2016 (antes se llamaba 600 Sport).",
+	"year": 2018
+},
+{
+	"id": "5",
+	"nombre": "Kawasaki",
+	"modelo": "Ninja 400",
+	"imagen": "moto-kawasaki1.jpg",
+	"detalle": "Sucede a la Ninja 300 ofreciendo un motor con más cubicaje y potencia: 399 cc y 45 CV.",
+	"year": 2018
+},
+{
+	"id": "6",
+	"nombre": "Suzuki",
+	"modelo": "SV650X",
+	"imagen": "moto-suzuki1.jpg",
+	"detalle": "La marca japonesa se apunta al pujante carro de las tendencias retro que en su vertiente cafe racer cada vez tiene más adeptos.",
+	"year": 2018
+},
+{
+	"id": "7",
+	"nombre": "Victory",
+	"modelo": "Vegas 8-Ball",
+	"imagen": "moto-victory1.jpg",
+	"detalle": "Tomando como base la Vegas nace la versión 8-Ball, una custom menos turística en la que se elimina la posibilidad de llevar a un pasajero gracias a un asiento monoplaza anatómico.",
+	"year": 2010
+},
+{
+	"id": "8",
+	"nombre": "Vespa",
+	"modelo": "125 Super/Sport",
+	"imagen": "moto-vespa1.jpg",
+	"detalle": "Las Vespa GTS 125 Super y Super Sport son las variantes más deportivas y están repletas de detalles que realzan esa imagen.",
+	"year": 2018
+},
+{
+	"id": "9",
+	"nombre": "Norton",
+	"modelo": "V4 SS/RR",
+	"imagen": "moto-norton1.jpg",
+	"detalle": "La Norton V4 SS/RR demuestra la gran ambición de la marca inglesa por recuperar su glorioso pasado creando una espectacular y exquisita superbike con 200 CV.",
+	"year": 2018
+}
+]

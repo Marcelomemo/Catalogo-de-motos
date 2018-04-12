@@ -1,0 +1,49 @@
+
+<div class="row">
+
+	<div class="col s12">
+		<h4 > Catálogo de Motos </h4>
+	</div>
+
+	<div class="col s12">
+
+		<div class="col s12 m6">
+			<form class="">
+				<div class="input-field">
+					<input id="search" type="search" required ng-model="query">
+					<label class="label-icon" for="search"><i class="material-icons">search</i></label>
+				</div>
+			</form>
+		</div>			
+
+		<div class="col s12 m6">
+			<label> Ordenarpor: </label>
+			<select class="browser-default" ng-model="orderProp">
+				<option value="nombre"> Alfabeticamente </option>
+				<option value="modelo"> Modelo </option>
+			</select>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col s12 m6 " ng-repeat="moto in motos | filter:query | orderBy:orderProp">
+			<div class="card">
+				<div class="card-image waves-effect waves-block waves-light">
+					<a href="#/catalogo/{{ moto.id }}"><img class="activator img_lista" ng-src="img/{{ moto.imagen }}"></a>
+				</div>
+
+				<div class="card-content">
+					<span class="card-title activator grey-text text-darken-4"> {{ moto.nombre }} </span>
+					<p> <strong> Modelo: </strong>  {{ moto.modelo }} </p>
+					<p class="moto_detalle"> {{ moto.detalle }} </p>
+				</div>
+				
+				<div class="card-action">
+					<p><a href="#/catalogo/{{ moto.id }}">Leer Más</a></p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>

@@ -1,0 +1,25 @@
+{
+	"nombre": "Ducati Panigale V4 2018",
+	"fabricante": {
+		"nombre": "Ducati Motor Holding S.p.A.",
+		"pais": "Italia"
+	},
+	"motor": {
+		"cilindrada": "1.103 cc",
+		"marchas": 6,
+		"transmision": "Trasmisión Primaria Engranajes de dientes rectos, Trasmisino Secundaria Cadena.",
+		"chasis": "Monocasco de aluminio"
+	},
+	"encendido": "Electrónico CDI",
+	"peso": "175 Kg.",
+	"dimension": {
+		"longitud": "2.267 mm.",
+		"distancia": "1.469 mm."
+	},
+	"images": [
+		"moto-ducati1.jpg",
+		"moto-ducati2.jpg",
+		"moto-ducati3.jpg",
+		"moto-ducati4.jpg"
+	]
+}

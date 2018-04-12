@@ -1,0 +1,25 @@
+{
+	"nombre": "Honda CB125R 2018",
+	"fabricante": {
+		"nombre": "Honda",
+		"pais": "Japon"
+	},
+	"motor": {
+		"cilindrada": "124 cc",
+		"marchas": 6,
+		"transmision": "Cadena",
+		"chasis": "Doble viga acero"
+	},
+	"encendido": "Digital transistorizado con control computerizado y avance electronico.",
+	"peso": "125.8 Kg.",
+	"dimension": {
+		"longitud": "1.946 mm.",
+		"distancia": "1.345 mm."
+	},
+	"images": [
+		"moto-honda1.jpg",
+		"moto-honda2.jpg",
+		"moto-honda3.jpg",
+		"moto-honda4.jpg"
+	]
+}

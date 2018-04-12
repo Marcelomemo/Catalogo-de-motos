@@ -1,0 +1,25 @@
+{
+	"nombre": "Suzuki SV650X 2018",
+	"fabricante": {
+		"nombre": "Suzuki",
+		"pais": "Japon"
+	},
+	"motor": {
+		"cilindrada": "645 cc",
+		"marchas": 6,
+		"transmision": "Trasmisión Primaria Engranajes, Trasmisino Secundaria Cadena.",
+		"chasis": "Tubular de acero"
+	},
+	"encendido": "Electrónico CDI",
+	"peso": "198 Kg.",
+	"dimension": {
+		"longitud": "2.140 mm.",
+		"distancia": "1.445 mm."
+	},
+	"images": [
+		"moto-suzuki1.jpg",
+		"moto-suzuki2.jpg",
+		"moto-suzuki3.jpg",
+		"moto-suzuki4.jpg"
+	]
+}

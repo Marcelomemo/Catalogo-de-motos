@@ -1,0 +1,25 @@
+{
+	"nombre": "Vespa 125 Super/Sport 2018",
+	"fabricante": {
+		"nombre": "Piaggio & C. S.p.A.",
+		"pais": "Italia"
+	},
+	"motor": {
+		"cilindrada": "124 cc",
+		"marchas": "Automático",
+		"transmision": "Trasmisino Secundaria Cadena.",
+		"chasis": "Bastidor en plancha de acero con refuerzos estructurales soldados"
+	},
+	"encendido": "Electrónico CDI",
+	"peso": "175 Kg.",
+	"dimension": {
+		"longitud": "1.930 mm.",
+		"distancia": "1.370 mm."
+	},
+	"images": [
+		"moto-vespa1.jpg",
+		"moto-vespa2.jpg",
+		"moto-vespa3.jpg",
+		"moto-vespa4.jpg"
+	]
+}
